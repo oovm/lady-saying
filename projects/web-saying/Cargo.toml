@@ -13,6 +13,7 @@ edition = "2018"
 lady-saying = {version = "0.1.*", path = "../lady-saying" }
 wasm-logger = "0.2.0"
 log = "0.4.6"
+rand = {version = "0.6.5", features = ["wasm-bindgen"]}
 
 [dependencies.dioxus-web]
 version = "0.2.1"

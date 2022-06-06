@@ -16,6 +16,54 @@
         }
     },
     {
+        like: "PHP",
+        rule: {
+            "你好笨": "許蓋功 变巨 林技夸",
+            "不想去": "锟斤拷锟剿达拷锟斤拷锟�",
+            "不行": "锘锘锘锘锘锘锘锘锘锘锘锘",
+            "随便": "锟秸憋拷幕",
+            "你去忙吧": "鍒板簳浠?拷涔堟椂鍊椤紑",
+            "我不会": "拷堋锟绞碉拷执锟侥匡",
+            "你好烦": "烫烫烫烫烫烫烫烫烫烫烫烫屯屯",
+            "要你管": "锟皆硷拷锟诫安",
+            "帮我个忙": "拷锟接讹拷锟斤拷",
+            "你陪我": "朹方幻想乡",
+            "气死我了": "����������",
+        }
+    },
+    {
+        like: "C++",
+        rule: {
+            "你好笨": "Segment fault",
+            "不想去": "Segment fault",
+            "不行": "Segment fault",
+            "随便": "Segment fault",
+            "你去忙吧": "Segment fault",
+            "我不会": "Segment fault",
+            "你好烦": "Segment fault",
+            "要你管": "Segment fault",
+            "帮我个忙": "Segment fault",
+            "你陪我": "Segment fault",
+            "气死我了": "Segment fault",
+        }
+    },
+    {
+        like: "Rust",
+        rule: {
+            "你好笨": "[E0491] A reference has a longer lifetime than the data it references.",
+            "不想去": "[E0255] You can’t import a value whose name is the same as another value defined in the module.",
+            "不行": "[E0623] A lifetime didn’t match what was expected.",
+            "随便": "[E0161] A value was moved whose size was not known at compile time.",
+            "你去忙吧": "[E0401] Inner items do not inherit type or const parameters from the functions they are embedded in.",
+            "我不会": "[E0535] An unknown argument was given to the inline attribute.",
+            "你好烦": "[E0544] Multiple stability attributes were declared on the same item.",
+            "要你管": "[E0577] Something other than a module was found in visibility scope.",
+            "帮我个忙": "[E0617] Attempted to pass an invalid type of variable into a variadic function.",
+            "你陪我": "[E0730] An array without a fixed length was pattern-matched.",
+            "气死我了": "[E0001] Note: this error code is no longer emitted by the compiler.",
+        }
+    },
+    {
         like: "七海Nana7mi",
         rule: {
             "你好笨": "你是不是撒比啊",
@@ -29,6 +77,22 @@
             "帮我个忙": "这个月要给自己上总督了",
             "你陪我": "通融通融",
             "气死我了": "都有问题!!!",
+        }
+    },
+    {
+        like: "群友",
+        rule: {
+            "你好笨": "涩图",
+            "不想去": "涩图",
+            "不行": "涩图",
+            "随便": "涩图",
+            "你去忙吧": "涩图",
+            "我不会": "涩图",
+            "你好烦": "涩图",
+            "要你管": "涩图",
+            "帮我个忙": "涩图",
+            "你陪我": "涩图",
+            "气死我了": "涩图",
         }
     }
 ]
