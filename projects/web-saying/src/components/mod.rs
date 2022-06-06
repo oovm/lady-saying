@@ -1,5 +1,7 @@
 mod saying;
 
-pub struct GithubLink {
+use dioxus::prelude::*;
 
-}
+pub use self::saying::{Saying, LadySaying};
+
+pub struct GithubLink {}
