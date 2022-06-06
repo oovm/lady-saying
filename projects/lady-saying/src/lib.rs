@@ -1,3 +1,3 @@
-mod errors;
+mod saying;
 
-pub use errors::{Error, Result};
+pub use saying::LadySaying;

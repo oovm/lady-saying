@@ -1,16 +1,18 @@
 [package]
 name = "lady-saying"
-publish = false
-version = "0.0.0"
+version = "0.1.0"
 authors = ["Aster <192607617@qq.com>"]
 description = "..."
-repository = "https://github.com/oovm/sub_projects"
-documentation = "https://docs.rs/sub_projects"
+repository = "..."
 readme = "Readme.md"
 license = "MPL-2.0"
-edition = "2021"
+edition = "2018"
 
 [dependencies]
+indexmap = { version = "1.8.2", features = ["serde"] }
+serde = "1.0.137"
+serde_derive = "1.0.137"
+json5 = "0.4.1"
 
 [dev-dependencies]
 
