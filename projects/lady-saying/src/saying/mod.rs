@@ -6,8 +6,8 @@ use serde_derive::{Serialize, Deserialize};
 
 #[derive(Debug, Clone, Eq, PartialEq, Serialize, Deserialize)]
 pub struct LadySaying {
-    like: String,
-    rule: IndexMap<String, String>,
+    pub like: String,
+    pub rule: IndexMap<String, String>,
 }
 
 impl LadySaying {
