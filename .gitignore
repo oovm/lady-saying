@@ -1,7 +1,5 @@
 # OS
 .DS_Store/
-thumbs.db
-time-travel.*
 
 # IDE
 .vscode/
@@ -12,3 +10,5 @@ time-travel.*
 # Rust
 target/
 Cargo.lock
+dist/
+time-travel.*

@@ -1,0 +1,23 @@
+[package]
+name = "web-saying"
+publish = false
+version = "0.1.0"
+authors = ["Aster <192607617@qq.com>"]
+description = "..."
+repository = "..."
+readme = "Readme.md"
+license = "MPL-2.0"
+edition = "2018"
+
+[dependencies]
+lady-saying = {version = "0.1.*", path = "../lady-saying" }
+wasm-logger = "0.2.0"
+log = "0.4.6"
+
+[dependencies.dioxus]
+version = "0.1.7"
+
+[dev-dependencies]
+
+[features]
+default = []
