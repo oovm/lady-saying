@@ -1,0 +1,34 @@
+[
+    {
+        like: "Python",
+        rule: {
+            "你好笨": "import 你好笨",
+            "不想去": "import 不想去",
+            "不行": "import 不行",
+            "随便": "import 随便",
+            "你去忙吧": "import 你去忙吧",
+            "我不会": "import 我不会",
+            "你好烦": "import 你好烦",
+            "要你管": "import 要你管",
+            "帮我个忙": "import 帮我个忙",
+            "你陪我": "import 你陪我",
+            "气死我了": "import 气死我了",
+        }
+    },
+    {
+        like: "Python",
+        rule: {
+            "你好笨": "import 你好笨",
+            "不想去": "import 不想去",
+            "不行": "import 不行",
+            "随便": "import 随便",
+            "你去忙吧": "import 你去忙吧",
+            "我不会": "import 我不会",
+            "你好烦": "import 你好烦",
+            "要你管": "import 要你管",
+            "帮我个忙": "import 帮我个忙",
+            "你陪我": "import 你陪我",
+            "气死我了": "import 气死我了",
+        }
+    }
+]

@@ -18,6 +18,6 @@ impl LadySaying {
         }
     }
     pub fn builtin() -> Vec<Self> {
-        from_str(include_str!("builtin.json")).unwrap()
+        from_str(include_str!("builtin.json5")).unwrap()
     }
 }
